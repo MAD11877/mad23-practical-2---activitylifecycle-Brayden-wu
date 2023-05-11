@@ -8,12 +8,12 @@
         "source": "sg.edu.np.mad.madpractical.app-main-26:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\WUQY2\\.gradle\\daemon\\8.0\\sg.edu.np.mad.madpractical.app-merged_res-24:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\WUQY2\\.gradle\\daemon\\8.0\\sg.edu.np.mad.madpractical.app-main-26:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
         "merged": "C:\\Users\\WUQY2\\.gradle\\daemon\\8.0\\sg.edu.np.mad.madpractical.app-merged_res-24:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\WUQY2\\.gradle\\daemon\\8.0\\sg.edu.np.mad.madpractical.app-main-26:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\WUQY2\\.gradle\\daemon\\8.0\\sg.edu.np.mad.madpractical.app-merged_res-24:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\WUQY2\\.gradle\\daemon\\8.0\\sg.edu.np.mad.madpractical.app-main-26:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "C:\\Users\\WUQY2\\.gradle\\daemon\\8.0\\sg.edu.np.mad.madpractical.app-merged_res-24:\\mipmap-hdpi_ic_launcher.webp.flat",
